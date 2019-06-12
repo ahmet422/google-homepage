@@ -1,0 +1,83 @@
+
+.leftheader
+{
+position: absolute;
+top:10;
+left:0;
+background-color: rgb(211, 208, 208);
+display:block;
+}
+
+.rightheader
+{
+    position: absolute;
+    top:10;
+    right:0;
+    display:block;
+
+    background-color: rgb(211, 208, 208);
+
+}
+
+.mailbutton
+{
+    background-color: lightskyblue;
+    border-radius: 15%;
+    width: 60px;
+    height: 25px;
+}
+
+
+.leftfooter
+{
+    position: absolute;
+    bottom:0;
+    left:0;
+    background-color: rgb(211, 208, 208);
+}
+
+.rightfooter
+{
+    position: absolute;
+    bottom:0;
+    right:0;
+    background-color: rgb(211, 208, 208);
+}
+
+#google
+{
+    width:400px;
+    height:150px;
+}
+
+.main 
+{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: table;
+}
+.wrapper{
+    vertical-align: middle;
+    text-align: center;
+    display: table-cell;
+}
+
+
+#button2, #button1
+{
+    width: 130px;
+    height: 25px;
+    
+}
+
+.footer{
+    display: block;
+
+    background-color: rgb(211, 208, 208);
+    display: block;
+}
+
+.header{
+    background-color: rgb(211, 208, 208);
+}
